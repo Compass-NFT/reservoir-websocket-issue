@@ -20,6 +20,6 @@ module.exports = {
     "no-console": "off",
     "max-len": "off",
     "radix": "off",
-    "no-await-in-loop": "warn"
+    "no-await-in-loop": "off",
   },
 };
